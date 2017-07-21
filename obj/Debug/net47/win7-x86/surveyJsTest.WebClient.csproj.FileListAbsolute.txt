@@ -1,0 +1,5 @@
+C:\Users\bja\Source\Repos\surveyjstest\bin\Debug\net47\win7-x86\surveyJsTest.WebClient.deps.json
+C:\Users\bja\Source\Repos\surveyjstest\bin\Debug\net47\win7-x86\surveyJsTest.WebClient.runtimeconfig.json
+C:\Users\bja\Source\Repos\surveyjstest\bin\Debug\net47\win7-x86\surveyJsTest.WebClient.runtimeconfig.dev.json
+C:\Users\bja\Source\Repos\surveyjstest\obj\Debug\net47\win7-x86\surveyJsTest.WebClient.csproj.surveyJsTest.WebClient.exe.config
+C:\Users\bja\Source\Repos\surveyjstest\obj\Debug\net47\win7-x86\surveyJsTest.WebClient.csprojResolveAssemblyReference.cache
