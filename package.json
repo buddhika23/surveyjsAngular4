@@ -26,7 +26,7 @@
         "msal": "^0.1.1",
         "rxjs": "^5.1.0",
         "zone.js": "^0.8.4",
-        "jquery": "^2.1.0",
+        "jquery": "^3.4.0.",
         "survey-angular": "^0.12.19",
         "surveyjs-editor": "^0.12.19",
         "@types/react": "15.0.35",
